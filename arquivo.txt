@@ -1,0 +1,10 @@
+1#Receita#1500.00#01/01/2025#Salário recebido do mês de fevereiro
+2#Despesa#200.50#02/01/2025#Conta de luz referente ao mês de fevereiro
+3#Receita#500.00#05/02/2025#Freelance de desenvolvimento web
+4#Despesa#120.75#06/02/2025#Compra de mantimentos no supermercado
+5#Despesa#60.00#07/03/2025#Assinatura de serviço de streaming
+6#Receita#300.00#10/03/2025#Venda de item usado no marketplace
+12#Despesa#75.30#25/12/2024#Compra de material de escritório
+13#Despesa#150.00#27/10/2024#Manutenção do carro
+14#Receita#400.00#28/11/2024#Comissão recebida por vendas
+16#Despesa#1200#03/03/2025#impostos 

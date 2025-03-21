@@ -1,0 +1,26 @@
+.input-group-text{
+    width: 100px;
+    background-color: #4A90E2;
+    color: #fff;
+}
+
+.tipo, .valor, .data{
+    width: 20%;
+    text-align: center;
+}
+
+.descricao{
+    width: 40%;
+    text-align: center;
+}
+
+td{
+    text-align: center;
+    line-height: 40px;
+}
+
+@media (max-width:575.98px){
+    td{
+        font-size: 14px;
+    }
+}
